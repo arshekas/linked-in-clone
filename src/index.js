@@ -5,7 +5,8 @@ import App from './App';
 import { store } from './app/store';
 import { Provider } from 'react-redux';
 import * as serviceWorker from './serviceWorker';
-
+// CLONE INSPIRED FROM SONY SANGHA YOUTUBE CHANNEL 
+// https://www.youtube.com/watch?v=QaYts9sPmcY
 ReactDOM.render(
   <React.StrictMode>
     <Provider store={store}>
