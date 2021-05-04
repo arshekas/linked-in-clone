@@ -1,5 +1,5 @@
 # Live Site - 
-https://linkedin-clone-arsh.web.app/
+https://linkedin-clone-arsh.web.app/ - **Not mobile responsive yet**
 
 build by watching Sonny Sangha channel youtube.
 https://www.youtube.com/watch?v=QaYts9sPmcY&t=716s
