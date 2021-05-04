@@ -1,7 +1,7 @@
 # Live Site - 
 https://linkedin-clone-arsh.web.app/ - **Not mobile responsive yet**
 
-build by watching Sonny Sangha channel youtube.
+practise by watching Sonny Sangha channel youtube.
 https://www.youtube.com/watch?v=QaYts9sPmcY&t=716s
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
